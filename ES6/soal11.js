@@ -4,5 +4,5 @@ const LOCAL_FORECAST = {
     today: {low : 64, high: 77},
     tomorrow: {low : 68, high: 80}
 }
-const {today: {high:highToday}, today: {low: lowToday}} = LOCAL_FORECAST;
+const {today: {high:highToday, low: lowToday}} = LOCAL_FORECAST;
 console.log(lowToday);
