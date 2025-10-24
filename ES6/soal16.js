@@ -1,3 +1,5 @@
+/* Write Concise Object Literal Declarations Using Object Property Shorthand */
+
 // const createPerson = (firstName, age, gender) => {
 //   // Only change code below this line
 //   return { nama: firstName, age, gender };
